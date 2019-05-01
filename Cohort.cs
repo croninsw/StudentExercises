@@ -14,6 +14,9 @@ namespace StudentExercises
         // public list of instructors currently working
         public List<Instructor> Instructors = new List<Instructor>();
 
+
+
+
         // when the cohort is instantiated, set the private class of name to the name you give it
         public Cohort(string name) {
             _cohortName = name;
